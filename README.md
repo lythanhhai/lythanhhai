@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=lythanhhai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lythanhhai&theme=dark)](https://git.io/streak-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lythanhhai&layout=compact" />
+<img src="https://activity-graph.herokuapp.com/graph?username=lythanhhai&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
