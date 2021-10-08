@@ -41,7 +41,6 @@ Skills: HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 <div display="flex" flexDirection='row'>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lythanhhai&theme=dark)](https://git.io/streak-stats" width='500px'/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lythanhhai&layout=compact" width='430px' height='190px'/>
- 
 </div>
 <br>
 <div align='center'>
