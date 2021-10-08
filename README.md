@@ -1,18 +1,17 @@
-### Hi there 👋, I'm Ly Thanh Hai.
+<div align='center'>
+ <h1>### Hi there 👋, I'm Ly Thanh Hai.</h1>
+ <h3>I am junior at Danang university technology and science.</h3>
+ <img height="600px" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"></img>
+</div>
+<br>
+<h2> About-me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+I am extremely passionate with web. Now I am improving my skill as well as learning multiple knowledge about web.
 
-<div align='center' marginBottom='20px'>I am junior at Danang university technology and science.</div>
-
-
-![I am junior at Danang university technology and science](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80)
-
-I am extremely passionate with web. Now I am improving my skill as well as learning multiple knowledge about web
-
-<h1>Tools and technologies</h1>
+<h2> Tools and Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 Skills: HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page, github project. 
 - 🌱 I’m currently learning NodeJs/ExpressJS/Mongoo/Redux  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lythanhhai)
 
 <h2> Front-end <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
