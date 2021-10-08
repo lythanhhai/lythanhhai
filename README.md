@@ -30,14 +30,23 @@ Skills: HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 
+<br>
+<br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
 <h1>Github stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=lythanhhai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lythanhhai&theme=dark)](https://git.io/streak-stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lythanhhai&layout=compact" />
+<div display="flex" flexDirection='row'>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=lythanhhai&theme=dark)](https://git.io/streak-stats" width='500px'/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lythanhhai&layout=compact" width='430px' height='190px'/>
+ 
+</div>
+<br>
+<div align='center'>
+ <img src="https://github-readme-stats.vercel.app/api?username=lythanhhai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> 
+</div>
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=lythanhhai&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 
 
