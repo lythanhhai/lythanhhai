@@ -6,7 +6,7 @@
 
 <br>
 <h2> About-me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-I am extremely passionate with web. Now I am improving my skill as well as learning multiple knowledge about web.
+I am extremely passionate with web. Now I am improving my skill as well as learning multiple knowledge related to web.
 
 <h2> Tools and Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 Skills: HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
