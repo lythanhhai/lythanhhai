@@ -58,7 +58,7 @@ Skills: HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
  <img src="https://github-readme-stats.vercel.app/api?username=lythanhhai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> 
 </div>
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=lythanhhai&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+
 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
