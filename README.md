@@ -64,4 +64,4 @@ Skills: HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 
  
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
+
