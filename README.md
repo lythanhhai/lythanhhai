@@ -2,7 +2,7 @@
 
 <div align='center'>
  <h1>### Hi there 👋, I'm Ly Thanh Hai.</h1>
- <h3>I am junior at Danang university technology and science.</h3>
+ <h3>I am senior at Danang university technology and science.</h3>
  <img height="600px" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"></img>
 </div>
 
