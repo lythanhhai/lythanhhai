@@ -14,7 +14,7 @@ I am extremely passionate with web and I want to become a front-end engineering 
 Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 
 - 🔭 I’m currently working on this page, github project. 
-- 🌱 I’m currently learning more about NodeJs/ExpressJS/Mongoose/Redux.  
+- 🌱 I’m currently learning more about Python/Django/Redux/Styled-component.  
 
 <h2> Front-end <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
