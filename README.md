@@ -66,7 +66,10 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
 
-![snake gif](https://github.com/lythanhhai/lythanhhai/blob/output/github-contribution-grid-snake.gif)
+<div align='center'>
+     <img src="https://github.com/lythanhhai/lythanhhai/blob/output/github-contribution-grid-snake.gif"></img>
+</div>
+
 
 ubuntu
 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
