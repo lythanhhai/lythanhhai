@@ -64,12 +64,11 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 
 <img src="https://activity-graph.herokuapp.com/graph?username=lythanhhai&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
-
 <div align='center'>
      <img src="https://github.com/lythanhhai/lythanhhai/blob/output/github-contribution-grid-snake.gif"></img>
 </div>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
 
 ubuntu
 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
