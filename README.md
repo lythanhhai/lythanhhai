@@ -9,26 +9,6 @@
 <br>
 <h2> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 I am extremely passionate with web and I want to become a front-end engineering in the future. Currently I am improving my skill as well as learning multiple knowledge related to web. In addition, I am working personal project on github to add it into CV.
-<br>
-<h2> Contact me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-  <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">
-    <img src="https://previews.123rf.com/images/marysan9/marysan91607/marysan9160700081/59644991-cv-resume-icon-flat-modern-flat-2-0-style-.jpg?fj=1" width="100px" height="30px"></img>
-  </a>
-  <a href="https://www.facebook.com/thanhlyhai.DT/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
-  </a>
-  <a href="https://www.facebook.com/thanhlyhai.DT/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-  </a>
-  <a href="https://www.facebook.com/thanhlyhai.DT/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
-  </a>
-  <a href="https://www.facebook.com/thanhlyhai.DT/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-  </a>
-
-
 
 <h2> Tools and Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
@@ -63,6 +43,24 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pinterest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pinterest.svg'> </a>
 
+<br>
+<h2> Contact me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+  <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">
+    <img src="https://previews.123rf.com/images/marysan9/marysan91607/marysan9160700081/59644991-cv-resume-icon-flat-modern-flat-2-0-style-.jpg?fj=1" width="100px" height="30px"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>
 <br>
 <br>
 <br>
