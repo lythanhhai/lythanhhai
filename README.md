@@ -11,10 +11,24 @@
 I am extremely passionate with web and I want to become a front-end engineering in the future. Currently I am improving my skill as well as learning multiple knowledge related to web. In addition, I am working personal project on github to add it into CV.
 <br>
 <h2> Contact me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-- <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">My CV</a>
 
+  <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcv_3135800&psig=AOvVaw0m--OQJqPSNuUi6pm0OZmf&ust=1647828548051000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiEmevN0_YCFQAAAAAdAAAAABAD"></img>
+  </a>
   <a href="https://www.facebook.com/thanhlyhai.DT/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+  </a>
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>
 
 
