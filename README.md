@@ -12,9 +12,11 @@ I am extremely passionate with web and I want to become a front-end engineering 
 <br>
 <h2> Contact me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 - <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">My CV</a>
-<br>
-- <a href="https://www.facebook.com/thanhlyhai.DT/">Facebook</a>
-<br>
+
+  <a href="https://www.facebook.com/thanhlyhai.DT/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
+  </a>
+
 
 
 <h2> Tools and Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
