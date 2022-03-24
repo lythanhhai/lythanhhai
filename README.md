@@ -49,6 +49,8 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
   <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">
     <img src="https://previews.123rf.com/images/marysan9/marysan91607/marysan9160700081/59644991-cv-resume-icon-flat-modern-flat-2-0-style-.jpg?fj=1" width="100px" height="30px"></img>
   </a>
+  [![Generic badge](https://img.shields.io/badge/<Watch>-<Me>-<COLOR>.svg)](https://shields.io/)
+
   <a href="https://www.facebook.com/thanhlyhai.DT/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img>
   </a>
