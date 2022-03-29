@@ -58,7 +58,7 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
   <a href="https://github.com/lythanhhai">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
   </a>
-  <a href="https://www.facebook.com/thanhlyhai.DT/">
+  <a href="https://www.linkedin.com/in/h%E1%BA%A3i-l%C3%BD-42911a221/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
   </a>
 <br>
