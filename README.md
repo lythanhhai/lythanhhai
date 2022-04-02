@@ -48,6 +48,7 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
   
   <h2> MY CV: </h2>
   <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">
+    <h4> MY CV: </h2>
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></img>
   </a>
   <a href="https://www.facebook.com/thanhlyhai.DT/">
