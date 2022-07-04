@@ -43,8 +43,9 @@ Skills: I used to study HTML/CSS/SASS/JS/BOOSTRAP/REACTJS/REDUX/C#/JAVA
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=babel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/babel.svg'> </a>
 
 <h2> Back-end <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40px' height='40px'> </h2>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
+src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> </a>
 
 <h2> Fundamental language at my university <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40px' height='40px'> </h2>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
