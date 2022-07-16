@@ -122,8 +122,4 @@ src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" h
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
 
-ubuntu
-<br>
-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
-
 <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 1px> -->
