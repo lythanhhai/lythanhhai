@@ -1,14 +1,15 @@
 
 
 <div align='center'>
- <h1>### Hi everyone 👋, I'm Ly Thanh Hai.</h1>
- <h3>I am senior at Danang university technology and science.</h3>
+<h1> 
+ Hi everyone 👋, I'm Ly Thanh Hai.</h1>
+ <h3>I am third-years student at Danang university technology and science.</h3>
  <img height="600px" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"></img>
 </div>
 
 <br>
 <h2> About me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40px' height='40px'> </h2>
-I am extremely passionate with web and I want to become a front-end engineering in the future. Currently I am improving my skill as well as learning multiple knowledge related to web. In addition, I am working personal project on github to add it into CV.
+I am extremely passionate with software such as web and I want to become a software engineering in the future. Currently I am improving my skill as well as learning multiple knowledge related to web. In addition, I am working personal project on github to add it into CV.
 
 <!-- <iframe src="https://giphy.com/embed/2Ygy0khwewLgMSYM0t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girlswhocode-computer-2Ygy0khwewLgMSYM0t">via GIPHY</a></p>
 
