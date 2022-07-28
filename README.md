@@ -10,7 +10,8 @@
 
 ## ⛅️ Weather in Danang now!
 
-<pre>Weather: ☀️   Sunny, +31°C, 63%, ↙4km/h, 1008hPa
+<pre>
+Weather: ☀️   Sunny, +31°C, 63%, ↙4km/h, 1008hPa
 Timezone: Asia/Ho_Chi_Minh
   Now:    11:25:07+0700 | Dawn:    05:03:53  | Sunrise: 05:27:22
   Zenith: 11:53:41      | Sunset:  18:19:50  | Dusk:    18:43:17
