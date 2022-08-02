@@ -4,7 +4,8 @@
 <h1> 
  Hi everyone 👋, I'm Ly Thanh Hai.</h1>
  <h3>I am third-years student at Danang university technology and science.</h3>
- <img height="600px" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"></img>
+ <br>
+ <img height="550px" width="900px" src="https://images.unsplash.com/photo-1637243218672-d338945efdf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"></img>
 </div>
 <br>
 
@@ -103,7 +104,8 @@ src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" h
 <br>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
 
 <h1>Github stats <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40px' height='40px'> </h1>
 <div display="flex" flexDirection='row' align='center'>
@@ -122,7 +124,5 @@ src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" h
 <div align='center'>
      <img src="https://github.com/lythanhhai/lythanhhai/blob/output/github-contribution-grid-snake.gif"></img>
 </div>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=lythanhhai.lythanhhai"></img>
 
 <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 1px> -->
