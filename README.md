@@ -75,7 +75,7 @@ src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" h
 
 <br>
 <h2> MY CV  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40px' height='40px'> </h2>
-  <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_Front_end_developer.pdf">
+  <a href="https://lythanhhai.github.io/CV_Ly_Thanh_Hai_sortware_developer.pdf">
     <img src="https://img.shields.io/github/downloads/lythanhhai/lythanhhai.github.io/total.svg"></img>
   </a>
 <br>
