@@ -126,3 +126,8 @@ src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" h
 </div>
 
 <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 1px> -->
+
+git rm -r --cached .
+git add .
+git commit -m "remove gitignore files"
+git push
