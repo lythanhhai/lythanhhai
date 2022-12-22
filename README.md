@@ -3,7 +3,7 @@
 <div align='center'>
 <h1> 
  Hi everyone 👋, I'm Ly Thanh Hai.</h1>
- <h3>I am third-years student at Danang university technology and science.</h3>
+ <h3>I am four-years student at Danang university technology and science.</h3>
  <br>
  <img height="550px" width="900px" src="https://images.unsplash.com/photo-1637243218672-d338945efdf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"></img>
 </div>
