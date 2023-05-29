@@ -15,7 +15,7 @@
 I am extremely passionate with software such as web and I want to become a software engineering in the future. Currently I am improving my skill as well as learning multiple knowledge related to web. In addition, I am working personal project on github to add it into CV.
 
 <!-- <iframe src="https://giphy.com/embed/2Ygy0khwewLgMSYM0t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girlswhocode-computer-2Ygy0khwewLgMSYM0t">via GIPHY</a></p>
-
+1
 <iframe src="https://giphy.com/embed/CEHtFH3rJ6xdhBUKIT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-css-html-CEHtFH3rJ6xdhBUKIT">via GIPHY</a></p>
 
 <iframe src="https://giphy.com/embed/YPUh8SkoYuurwwV4bz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jpmorgan-tech-coding-jpmc-YPUh8SkoYuurwwV4bz">via GIPHY</a></p>
